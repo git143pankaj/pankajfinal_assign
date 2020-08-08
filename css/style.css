@@ -459,7 +459,7 @@ a.abc {width: 300px !important;}
   }*/
 
 
-@media screen and (max-width: 470px) and (min-width: 325px) {
+@media screen and (max-width: 470px) and (min-width: 321px) {
  
 a:nth-child(1).abc.active~.animation {  
  width: 25px;
